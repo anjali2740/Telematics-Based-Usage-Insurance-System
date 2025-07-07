@@ -43,7 +43,7 @@ This project uses **telematics data** (e.g., speed, acceleration, braking) to:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/telematics-insurance-gradio.git
+git clone https://github.com/anjali2740/telematics-insurance-gradio.git
 cd telematics-insurance-gradio
 
 ### 2. Install Python Dependencies
